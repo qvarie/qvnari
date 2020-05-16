@@ -11,7 +11,7 @@
 * [タイ文字 - Thai Alphabets](https://github.com/qvarie/qvnari/blob/master/thaialphabet-emoji.txt)
 * [ラオ文字 - Lao Alphabets](https://github.com/qvarie/qvnari/blob/master/laoalphabet-emoji.txt)
 
-# Author
+# 作成者 - Author
 
 * 作成者 : Qvarie
 * ツイッターアドレス : [https://twitter.com/qvarie/](https://twitter.com/qvarie/)
