@@ -2,7 +2,7 @@
 // ■日本式(記号 : ㊐)と簡体式(記号 : ㊥)のトキポナ漢字に対応する絵文字データ。
 // (※配列はユニコード順)
 
-// 1. シテレン・ピリン式とHoltzermann17式との共通絵文字 - Common Emoji for Toki Pona
+// 1. シテレン・ピリン式とHoltzermann17式との共通絵文字 - Common Emojis for Toki Pona
 // 1.1. 漢字 - CJK Ideographs
 事 == 🐚 [㊥ijo]
 令 == 👋 [㊥o]
@@ -19,7 +19,7 @@
 授 == 📤 [㊐pana]
 死 == 💀 [moli]
 母 == 👪 [mama]
-气 == 💨 [kon]
+气 == 💨 [㊥kon]
 汙 == 💩 [㊥jaki]
 汚 == 💩 [㊐jaki]
 污 == 💩 [㊥jaki]
@@ -47,3 +47,46 @@
 
 // 1.2. ひらがな- Hiragana
 お == 👋 [㊐o]
+
+// 2. シテレン・ピリン絵文字 - Sitelen Pilin Emojis
+// 2.1. 漢字 - CJK Ideographs
+
+// 2.2. ひらがな- Hiragana
+あ == ❗️ [㊐a]
+え == ⏩️ [㊐e]
+ぬ == ☯️ [㊐anu]
+ぴ == ⏹️ [㊐pi]
+む == 😹 [㊐mu]
+ら == 🔼 [㊐la]
+り == ▶️ [㊐li]
+ん == ➕️ [㊐en]
+
+// 3. Holtzermann17式トキポナ絵文字 - Toki Pona Emojis for Unicode 6.0
+// 3.1. 漢字 - CJK Ideographs
+// 3.2. ひらがな- Hiragana
+あ == 😅 [㊐a]
+え == 🔸 [㊐e]
+ぬ == 🎏 [㊐anu]
+ぴ == 🎒 [㊐pi]
+む == 😻 [㊐mu]
+ら == 🔹 [㊐la]
+り == 🔼 [㊐li]
+ん == 🍒 [㊐en]
+
+// 4. トキ・ナマコ絵文字 - Toki Namako Emojis
+// 4.1. 漢字 - CJK Ideographs
+// 4.2. ひらがな- Hiragana
+あ == ❗️ [㊐a]
+え == ⏩️ [㊐e]
+お == ⏺️ [㊐o]
+ぬ == ✖️ [㊐anu]
+ぴ == ⏹️ [㊐pi]
+む == 😹 [㊐mu]
+ら == ◀️ [㊐la]
+り == ▶️ [㊐li]
+ん == ➕️ [㊐en]
+
+// 5. テイリング式トキポナ表語文字 - Theiling’s Toki Pona Script
+// 5.1. 漢字- CJK Ideographs
+// 5.2. ひらがな- Hiragana
+お == ⚠️ [㊐o]
